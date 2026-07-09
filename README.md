@@ -67,7 +67,7 @@ Import into phpMyAdmin before running the project.
 ---
 ### Index
 
-![Admin](testing/Screenshots/index.png)
+![Index](testing/Screenshots/index.png)
 
 ---
 
