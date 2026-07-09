@@ -55,9 +55,25 @@ Import into phpMyAdmin before running the project.
 
 ## Screenshots
 
+### Category
+
+![Category](testing/Screenshots/category.png)
+
+---
 ### Home
 
 ![Home](testing/Screenshots/home.png)
+
+---
+### Index
+
+![Admin](testing/Screenshots/index.png)
+
+---
+
+### Admin Dashboard
+
+![Admin](testing/Screenshots/indexAdmin.png)
 
 ---
 
@@ -72,17 +88,6 @@ Import into phpMyAdmin before running the project.
 
 ---
 
-### Category
-
-![Category](testing/Screenshots/category.png)
-
----
-
-### Admin Dashboard
-
-![Admin](testing/Screenshots/indexAdmin.png)
-
----
 
 ## Manual Testing Documents
 
