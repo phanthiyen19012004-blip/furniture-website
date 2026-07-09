@@ -74,8 +74,7 @@ Import into phpMyAdmin before running the project.
 
 ### Category
 
-![Category](testing/Screenshots/category
-.png)
+![Category](testing/Screenshots/category.png)
 
 ---
 
